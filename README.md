@@ -1,6 +1,4 @@
-# Skin-Lesion-Classifier
-
-CS230 Project
+# Skin Lesion Classifier
 
 Authors: Nevin George and Vedansh (Zayn) Malhotra
 
