@@ -2,7 +2,7 @@
 
 Authors: Nevin George and Vedansh (Zayn) Malhotra
 
-Our code can be found in skin_lesion_classifer_v2.ipynb
+Our code can be found in FINAL.ipynb
 
 ## References
 
